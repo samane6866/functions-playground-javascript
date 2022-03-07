@@ -8,7 +8,7 @@
 
  let sum1;
  let sum2;
- let resultado = sum(sum1, sum2)
+ let resultado = suma(sum1, sum2)
  console.log(resultado)
 
  // Te has fijado que la función no tiene por que devolver el valor de una variable? Puede devolver cualquier evaluación de una expresión, en este caso, el resultado de evaluar a + b
